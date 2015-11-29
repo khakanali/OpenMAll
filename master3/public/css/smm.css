@@ -1,0 +1,19 @@
+/**
+ * Created by Khakan Ali on 11/27/2015.
+ */
+.imgThumbs>ul::-webkit-scrollbar{
+    background-color: #FFFFFF;
+    width: 10px;
+    height: 10px;
+}
+.imgThumbs>ul::-webkit-scrollbar-thumb{
+    background-color: #1abc9c;
+    border-radius: 10px;
+
+}
+.p-img-bordered:hover{
+    border: 1px solid #1abc9c;
+}
+.selected-pro{
+    border: 1px solid #1abc9c;
+}

@@ -1,0 +1,81 @@
+/* O-WareHouse Styles, by Ashwani Kumar */
+.brandlist h3{
+    text-align: center;
+    line-height: 60px;
+    font-size:  27px;
+}
+
+.border-box{
+    border: 1px solid #d3d3d3;  
+    padding: 5px;
+}
+
+.boxrow2-l
+{
+    height: 200px !important; 
+    border-left: none !important;
+    border-top: none !important;
+}
+
+.user_icon {
+    font-size: 20px;
+    margin: 20px 0 0 20px;
+}
+
+.boxrow4-l p {
+    color: #000;
+    font-size: 12px;
+}
+
+.boxrow4-l .dicsount{
+    color: #ce1d27;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.boxrow4-l h2{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.boxrow4-l .mp_price{
+    width: 20%;
+}
+
+.row.no-margin1{
+    margin: 0px;
+}
+
+.moq_left{
+    border: 1px solid #d3d3d3;
+    margin-left: 15px;
+}
+
+#bueaty{
+    margin-top: 4%;
+}
+
+.border-box:last-child{
+    margin-left: 5px;
+    width: 49%;
+}
+
+.place_order{
+    border: 1px solid #d3d3d3;
+}
+
+.place_order h4{
+    font-weight: 500;
+    margin-left: 50%;
+}
+
+.place_order.glyphicon-user{
+    font-size: 20px;
+}
+
+.place_order  .quantity{
+    width: 30px;
+    height: 30px;
+    background: #279980;
+    padding:    5px 0 0 8px;
+}
